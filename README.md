@@ -1,4 +1,4 @@
-# DOS X DOS 2.0 - Project Structure
+# Galaga Agency y Gaming - web 2.0 - Project Structure
 
 ## Overview
 
@@ -9,7 +9,7 @@ This project is a Next.js and TypeScript-based web application with a structured
 ### Root Level
 
 ```
-DOSXDOS_2.0/
+GALAGA_WEB_2.0/
 ├── .next/                # Next.js build output (auto-generated)
 ├── .vscode/              # VSCode workspace settings
 ├── node_modules/         # Dependencies installed via npm
@@ -320,5 +320,6 @@ src/utils/
 ```
 This folder contains all GSAP animations for various elements.
 
-Each file corresponds to a specific animation effect.#   g a l a g a _ w e b _ 2 . 0 - f r o n t e n d  
+Each file corresponds to a specific animation effect.#   g a l a g a _ w e b _ 2 . 0 - f r o n t e n d 
+ 
  
