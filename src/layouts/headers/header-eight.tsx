@@ -20,14 +20,14 @@ export default function HeaderEight({style_2,container='1840'}: IProps) {
           <div className={`container container-${container}`}>
             <div className="row">
               <div className="col-md-6 col-6">
-                <div className="tp-header-logo">
+                {/* <div className="tp-header-logo">
                   <Link className={`${style_2?'portfolio-logo-1':''} logo-1`} href="/">
                     <Image src={logo} alt="logo" />
                   </Link>
                   <Link className={`${style_2?'portfolio-logo-2':''} logo-2`} href="/">
                     <Image src={logo_2} alt="logo" />
                   </Link>
-                </div>
+                </div> */}
               </div>
               <div className="col-md-6 col-6">
                 <div className="tp-header-6-menu-box tp-offcanvas-open-btn d-flex align-items-center justify-content-end tp-header-bar">
